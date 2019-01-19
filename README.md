@@ -1,9 +1,10 @@
 # stats_api
-API for Telos BP stats
+
+## API for Telos BP stats
 
 A quick and dirty web API that provides handy BP data
 
-Usage:  http://<hostname/IP>:5000/<command>
+Usage:  `http://<hostname/IP>:5000/<command>`
 
 Available commands are:
 
@@ -111,5 +112,5 @@ Next Rotate: 2019-01-19T03:04:05.000 UTC
 ------------------------
 TLOS/EOS: $0.04 | EOS/USD: $2.50 | TLOS/USD: $0.10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk0MzU3NjldfQ==
+eyJoaXN0b3J5IjpbLTE4NjcxNjY1M119
 -->
