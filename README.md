@@ -6,6 +6,11 @@ A quick and dirty web API that provides handy BP data
 
 Usage:  `http://<hostname/IP>:5000/<command>`
 
+Need to supply 3 variables:
+
+ 1. CryptoCompare API Key
+ 2. 
+
 Available commands are:
 
 **RAW PRODUCERS LIST**
@@ -70,7 +75,6 @@ Returns:
     TLOS/EOS: $0.04 | EOS/USD: $2.50 | TLOS/USD: $0.10
 
 **All of the Above**
-
 command: all URL: `http://<hostname/IP>:5000/all` Returns: 
 
     RANK BP VOTES DIFF 
@@ -115,5 +119,5 @@ command: all URL: `http://<hostname/IP>:5000/all` Returns:
     TLOS/EOS: $0.04 | EOS/USD: $2.50 | TLOS/USD: $0.10
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjQxNDkwNF19
+eyJoaXN0b3J5IjpbNTAyMDQzMjUyXX0=
 -->
