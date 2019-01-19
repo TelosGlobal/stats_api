@@ -55,45 +55,31 @@ Returns:
 
 **Current BP Rotation**
 command: rotation
-URL:  http://<hostname/IP>:5000/rotation
+URL:  `http://<hostname/IP>:5000/rotation`
 Returns:
-Rotated Out: telosglobal1
-Rotated In: telosvoyager
-Next Rotate: 2019-01-19T03:04:05.000 UTC
 
-#Current TLOS price
+    Rotated Out: telosglobal1
+    Rotated In: telosvoyager
+    Next Rotate: 2019-01-19T03:04:05.000 UTC
+
+**Current TLOS price**
 command: price
-URL:  http://<hostname/IP>:5000/price
+URL:  `http://<hostname/IP>:5000/price`
 Returns:
-TLOS/EOS: $0.04 | EOS/USD: $2.50 | TLOS/USD: $0.10
 
-#All of the Above
-command: all
-URL:  http://<hostname/IP>:5000/all
-Returns:
-RANK BP VOTES DIFF
-1: goodblocktls 17,463,179 (0)
-2: eosbarcelona 16,657,125 (806,054)
-3: telosmiamibp 16,575,360 (81,765)
-4: telosuknodes 16,221,548 (353,812)
-5: votedutcheos 16,155,586 (65,962)
-6: infinitybloc 15,931,105 (224,481)
-7: tlsvancouver 15,734,292 (196,813)
-8: caleosblocks 15,729,211 (5,081)
-9: telosdacnode 15,316,121 (413,090)
-10: eosiodetroit 15,303,618 (12,503)
-11: eosmetaliobp 15,092,095 (211,523)
-12: telosmadrid1 14,648,656 (443,439)
-13: tlsvenezuela 14,577,096 (71,560)
-14: kainosblkpro 14,555,470 (21,626)
-15: octagontelos 14,185,993 (369,477)
-16: telosgreenbp 14,020,813 (165,180)
-17: bigironbptex 13,588,505 (432,308)
-18: blindblocart 13,496,566 (91,939)
-19: telosglobal1 13,221,007 (275,559) ****
-20: 21zephyr1111 13,152,419 (68,588)
-21: telosnewyork 13,148,064 (4,355)
--------------------------
+    TLOS/EOS: $0.04 | EOS/USD: $2.50 | TLOS/USD: $0.10
+
+**All of the Above**
+
+command: all URL: `http://<hostname/IP>:5000/all` Returns: 
+RANK BP VOTES DIFF 
+1: goodblocktls 17,463,179 (0) 
+2: eosbarcelona 16,657,125 (806,054) 
+3: telosmiamibp 16,575,360 (81,765) 
+4: telosuknodes 16,221,548 (353,812) 
+5: votedutcheos 16,155,586 (65,962) 
+6: infinitybloc 15,931,105 (224,481) 7: tlsvancouver 15,734,292 (196,813) 8: caleosblocks 15,729,211 (5,081) 9: telosdacnode 15,316,121 (413,090) 10: eosiodetroit 15,303,618 (12,503) 11: eosmetaliobp 15,092,095 (211,523) 12: telosmadrid1 14,648,656 (443,439) 13: tlsvenezuela 14,577,096 (71,560) 14: kainosblkpro 14,555,470 (21,626) 15: octagontelos 14,185,993 (369,477) 16: telosgreenbp 14,020,813 (165,180) 17: bigironbptex 13,588,505 (432,308) 18: blindblocart 13,496,566 (91,939) 19: telosglobal1 13,221,007 (275,559) **** 20: 21zephyr1111 13,152,419 (68,588) 21: telosnewyork 13,148,064 (4,355)
+
 22: telosvoyager 12,829,234 (318,830)
 23: teloscantons 12,683,256 (145,978)
 24: eosdublinwow 12,570,101 (113,155)
@@ -112,5 +98,5 @@ Next Rotate: 2019-01-19T03:04:05.000 UTC
 ------------------------
 TLOS/EOS: $0.04 | EOS/USD: $2.50 | TLOS/USD: $0.10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDk3MTkxMDddfQ==
+eyJoaXN0b3J5IjpbMTI3OTM3NjIwOF19
 -->
